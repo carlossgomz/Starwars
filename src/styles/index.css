@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(218, 216, 216);
+}
+
+.navbar-logo {
+    height: 70px;
+    margin-left: 100px;
+}
+
+.favorites-nav {
+    padding: 10px;
+    font-style: none;
+}
+
+.container-details {
+    background-color: rgb(116, 187, 188);
+    padding: 15px;
+    margin: 20px;
+    border-radius: 5px;
+}
+
+.fa-trash-can {
+    color: black;
+}
+.card-row {
+    overflow-x: scroll;
+    display: flex;
+}
+.favorite-icon {
+    display: inline-block;
+    margin: 10px;
+}
+

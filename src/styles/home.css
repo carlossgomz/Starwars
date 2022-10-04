@@ -1,0 +1,12 @@
+body {
+    background:rgba(7, 7, 7, 0.752);
+}
+
+.title {
+    background-color: rgba(71, 97, 125, 0.752);
+    max-width: 150px;
+    max-height: 80px;
+    padding: 5px;
+    border-radius: 10px;
+    color: azure;
+}
